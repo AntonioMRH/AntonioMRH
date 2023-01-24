@@ -4,7 +4,7 @@
 
 - 🔭 I’m working mostly with front-end development
 - 🌱 I’m currently improving my React skills
-- 🥅 2022 Goals: Improve my knowledge about software dev & create a mobile app
+- 🥅 2023 Goals: Improve my knowledge about software dev & create a mobile app
 - ⚡ Fun fact: I love skate 🛹 and photography 📷 
 - 😄 Pronouns: he/him
 
