@@ -1,13 +1,5 @@
 ### Hi there, I'm Antonio Moreno
 
-## I'm a Software Developer
-
-- 🔭 I’m working mostly with front-end development
-- 🌱 I’m currently improving my React skills
-- 🥅 2023 Goals: Improve my knowledge about software dev & create a mobile app
-- ⚡ Fun fact: I love skate 🛹 and photography 📷 
-- 😄 Pronouns: he/him
-
 
 ### Connect with me:
  
